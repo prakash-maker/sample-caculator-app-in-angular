@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ng-ec-app"
+  "defaultProject": "ng-ec-app",
+  "cli": {
+    "analytics": false
+  }
 }
